@@ -10,6 +10,8 @@ const config: KnipConfig = {
     "eslint-config-prettier",
     "eslint-plugin-prettier",
     "@ethersproject/providers",
+    "@ubiquibot/configuration",
+    "@supabase/supabase-js",
     "@octokit/core",
     "@octokit/plugin-create-or-update-text-file",
     "@octokit/rest",

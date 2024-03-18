@@ -34,5 +34,4 @@ yarn cy:run
 To test in a real-world scenario, you will need to create an Organization under your GitHub account, and use it as a 
 dummy. If the operation is successful, you will see a new repository appear with the Ubiquibot configuration.
 
-Knip test.
-Knip test.
+Knip QA.
